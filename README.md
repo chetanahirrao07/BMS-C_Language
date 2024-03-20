@@ -1,6 +1,8 @@
 # BMS-C_Language
 
-Task : Simple Banking System Project in C Language 
+A simple implementation of Bank management System in C programming lanaguage completed as a mini project.
+
+Task : Simple Bank Management System 
 
 Functional Requirements:
 
